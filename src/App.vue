@@ -3,21 +3,16 @@
     <header>
       <div class="main">
         <div class="logo">
-          <img src="./assets/favicon.ico">
-          <span>Han Analytics</span>
+          <img src="./assets/china_zzk.ico">
+          <span>Analytics</span>
         </div>
-        <h2>简单优雅的Web分析</h2>
+        <h2>China_zzk的网站分析</h2>
       </div>
     </header>
     <main>
       <header>
         <Alert>
           <AlertDescription>
-            <p>· Han Analytics 是一个简单的网络分析跟踪器和仪表板，托管在被称为赛博菩萨的 Cloudflare 上,无成本稳定运行,每天可达10万次免费统计。</p>
-            <p>· 域名、服务器、数据库 通通都不用! 托管在 Cloudflare Pages 上即可快速部署网站分析仪表板。</p>
-            <p style="font-weight: bold;">· 开源地址: <a class="git-link" href="https://github.com/uxiaohan/HanAnalytics"
-                target="_blank">Han-Analytics</a>
-            </p>
           </AlertDescription>
         </Alert>
       </header>
@@ -221,17 +216,6 @@
         </div>
       </section>
     </main>
-    <footer>
-      <p><img src="./assets/svg/ing.svg"></p>
-      <p>
-        <a href="https://pages.cloudflare.com" target="_blank" rel="noopener noreferrer"><img
-            src="./assets/svg/framework.svg"></a>
-        <a href="https://www.cloudflare.com/zh-cn/application-services/products/cdn/" target="_blank"
-          rel="noopener noreferrer"><img src="./assets/svg/cdn.svg"></a>
-        <a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img src="./assets/svg/web.svg"></a>
-        <a href="https://api.vvhan.com" target="_blank"><img src="./assets/svg/surppot.svg"></a>
-      </p>
-    </footer>
   </section>
   <div class="z-[999999999]">
     <Toaster />
